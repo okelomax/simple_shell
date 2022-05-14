@@ -1,7 +1,7 @@
- simple shell project in the C
-This is a colloborative project done in pair of two enginneerings at Alx School.
+ simple shell project in C
+This is a colloborative project done in pair of two enginneering students at Alx School.
 
-Th Project depict use of various functions and system calls
+The Project depicts the use of various functions and system calls
 
 In this project we are tasked with creating our own simple UNIX command interpreter. The program must have the exact same output as sh (/bin/sh) as well as the exact same error output. The only difference is when you print an error, the name of the program must be equivalent to your argv[0].
 
@@ -45,7 +45,7 @@ hsh main.c shell.c test_ls_2
 
 $
 
-The following are c file that explain project in details.
+The following are c files that explain project in details.
 
 Write a beautiful code that passes the Betty checks
 Write a UNIX command line interpreter
@@ -63,4 +63,6 @@ Handle the && and || shell log, Usage: alias [name[='value'] ...]
 Handle variables replacement Handle the $? variable Handle the $$ variable
 Handle comments (#)
 Usage: simple_shell [filename] Your shell can take a file as a command line argument The file contains all the commands that your shell should run before exiting The file should contain one command per line In this mode, the shell should not print a prompt and should not read from stdin
-Author's[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[A[A[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[A[A[A[B[B[B[A[A[D[D[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[A[A[A[A[A[C[C[C[C[C[C[C[C
+Author's
+OKELO MAXWEL
+SHARLINE MUTHIANI
