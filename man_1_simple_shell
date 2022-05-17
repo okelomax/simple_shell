@@ -1,5 +1,5 @@
 .\" Manpage for shell
-.TH man 8 "15 May 2022" "1.0" "simple_shell man page"
+.TH man 8 "17 May 2022" "1.0" "simple_shell man page"
 .SH NAME
 shell \- a limited simple_shell
 .SH SYNOPSIS
